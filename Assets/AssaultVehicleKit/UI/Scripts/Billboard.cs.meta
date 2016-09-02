@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c6a8ab550eeda3e448750d92b14a5d2a
+labels:
+- UI
+- Vehicle
+- Assault
+- Kit
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

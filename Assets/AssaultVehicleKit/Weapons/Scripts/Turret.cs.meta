@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 07861047271bd144f9ed8c93f3882816
+labels:
+- Vehicle
+- Assault
+- Weapon
+- Kit
+- Projectile
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

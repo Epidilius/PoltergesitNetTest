@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d3c5e3954a92ef4cba51f61c9f0f496
+labels:
+- Vehicle
+- Assault
+- Weapon
+- Kit
+- Car
+- Physics
+- Projectile
+- AI
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 9e62d221315cdd24e8faa8c0583c36ec
+labels:
+- Vehicle
+- Assault
+- Kit
+- Car
+- Physics
+- AI
+- Projectile
+- Weapon
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AVBuggy
+    100004: Body
+    100006: Camera
+    100008: Directional Light
+    100010: Mesh
+    100012: SteeringWheel
+    100014: Texture Group
+    100016: WheelFL
+    100018: WheelFR
+    100020: WheelRL
+    100022: WheelRR
+    100024: TurretMount
+    100026: WheelFL (2)
+    100028: WheelFL (3)
+    100030: WheelFL (4)
+    100032: WheelFR (2)
+    100034: Default (2)
+    100036: Default (3)
+    100038: TireTest
+    100040: WheelRL (2)
+    100042: WheelRR (2)
+    100044: Body (2)
+    100046: TurretBase
+    400000: //RootNode
+    400002: AVBuggy
+    400004: Body
+    400006: Camera
+    400008: Directional Light
+    400010: Mesh
+    400012: SteeringWheel
+    400014: Texture Group
+    400016: WheelFL
+    400018: WheelFR
+    400020: WheelRL
+    400022: WheelRR
+    400024: TurretMount
+    400026: WheelFL (2)
+    400028: WheelFL (3)
+    400030: WheelFL (4)
+    400032: WheelFR (2)
+    400034: Default (2)
+    400036: Default (3)
+    400038: TireTest
+    400040: WheelRL (2)
+    400042: WheelRR (2)
+    400044: Body (2)
+    400046: TurretBase
+    2300000: Body
+    2300002: SteeringWheel
+    2300004: WheelFL
+    2300006: WheelFR
+    2300008: WheelRL
+    2300010: WheelRR
+    2300012: WheelFL (2)
+    2300014: WheelFL (3)
+    2300016: WheelFL (4)
+    2300018: WheelFR (2)
+    2300020: Default (2)
+    2300022: Default (3)
+    2300024: WheelRL (2)
+    2300026: WheelRR (2)
+    2300028: TurretMount
+    2300030: Body (2)
+    2300032: TurretBase
+    3300000: Body
+    3300002: SteeringWheel
+    3300004: WheelFL
+    3300006: WheelFR
+    3300008: WheelRL
+    3300010: WheelRR
+    3300012: WheelFL (2)
+    3300014: WheelFL (3)
+    3300016: WheelFL (4)
+    3300018: WheelFR (2)
+    3300020: Default (2)
+    3300022: Default (3)
+    3300024: WheelRL (2)
+    3300026: WheelRR (2)
+    3300028: TurretMount
+    3300030: Body (2)
+    3300032: TurretBase
+    4300000: SteeringWheel
+    4300002: Body
+    4300004: WheelFL
+    4300006: WheelRL
+    4300008: WheelFR
+    4300010: WheelRR
+    4300012: WheelFL (2)
+    4300014: WheelFL (3)
+    4300016: WheelFL (4)
+    4300018: WheelFR (2)
+    4300020: Default (2)
+    4300022: Default (3)
+    4300024: WheelRL (2)
+    4300026: WheelRR (2)
+    4300028: TurretMount
+    4300030: TurretBase
+    4300032: Body (2)
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

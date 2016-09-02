@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 539e070170c8a0e4782d7344f4ca6ff5
+labels:
+- AI
+- Vehicle
+- Assault
+- Kit
+- Physics
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

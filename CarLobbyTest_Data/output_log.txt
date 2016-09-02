@@ -1,0 +1,160 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.125 seconds
+desktop: 1920x1080 50Hz; virtual: 3600x1166 at -1680,-86
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.052 seconds
+desktop: 1920x1080 50Hz; virtual: 3600x1166 at -1680,-86
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+<RI> Initialized touch support.
+Platform assembly: E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2a7c -> priority: 1 
+  Thread -> id: 2aa4 -> priority: 1 
+Platform assembly: E:\Projects\Unity\NetTest\CarLobbyTest_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2a38 -> priority: 1 
+  Thread -> id: 2a3c -> priority: 1 
+Unloadand 3 Unusednuseidl Ser ializedSefiles (Serfillsized lfiled:e0 n
+ow loaded: 0)
+UUnlaoadme: e:.40.4870 9m m
+s
+Multiipe NetworkMaMagnrsgers detedctin  ihe schen scenly. OnlyNetworNeManorkMr naan r xcst at a time a Tthee.duTheicatlecaNetworkManager wer  nill beot see .u
+se
+d.
+ 
+(aFil C:/build:/bave/unity//uuildy/brtid/arts/gener/geed/rated/n/ommnon/runtiime/UinityEngiineDebuggBi.cppgLs.g: n.4)
+
+ Line: 64)
+
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 1179.
+Total: 8.863345 ms (FindLiveObjects: 0.090975 sUnlreading 39 unuspi Asset. 10 5r0 ms M mrkOorjects:ge4.Loa5719 ms  Des noeOb 1ect8.
+Total: 9.s: 55.660s 30 msdLi
+v
+eObjects: 0.080527 ms CreateObjectMapping: 0.083840 ms MarkObjects: 9.240498 ms  DeleteObjects: 0.048927 ms)
+
+No skidmarks object found. Skidmarks will not be drawn. Drag ''RCCSkidmarksManager'' from Prefabs folder, and drop on to your existing scene...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+No skidmarks object found. Skidmarks will not be drawn. Drag ''RCCSkidmarksManager'' from Prefabs folder, and drop on to your existing scene...
+ 
+(FilenaNeo skidmarks objecn ftyunbu. ikiddmrrksa will nora bed/dcomm.on/ru n'RCCSkidmarksiMeDnabugr''ndfrngm Prefabs foile: 6e4, 
+a
+nd drop on to your existo ngki sacene.b.j
+ c(F flename: C:/buiardss avil/u nitt /be dild/artiagac''RCgenerated/comnaoner'' fmeomniPrengbne foebugr,inanin dro.g on to y Line: 64)
+
+ng scene...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+No  skidmmarkks oobjecct ffounnd. Skidmmarrk wwilll noot bbe draawn.. Dragg '''CCSCSidimmarksMMaager'' from Prefaabs  follde, a ndd drop on too youur  existingg sccene...
+ .
+(
+ 
+(Fimeen C:e:buil/bulaldsunavty/bnitly/builfa/ctsifganeratednermaon/rd/ctime/U/ituyEnmginnetyeEnginndingsg.gen.cpsp Line: 64i)
+
+ 64)
+
+No skidmarks object found. Skidmarks will not be rraw on. Dr fg un'R.CCSkimamakskswianager'' e dra wn. Drag ol'RerCS kid dmarksM an agurr existm ng efass enol...r,
+  
+andlednameon Cto/buould elaise/inni sycbnu..ld
+ 
+(tiilaename:nerated/commave//untiiy/b/Uilidy/arintDebugBindingsatged/.comp Line: ti4)
+U
+nityEngineNo sugiBmarks ob.gect fou Ld.ne:k 64)
+
+s will not be sdridwnar ksago ''RCbSkidt foksManageidm'rkfr wmllPrnofa s f dldawr,  Drag ''pRoCS tid yarursMexnaster'' fceom Pref
+ 
+(s ilolnaer,: and/bdrilp slave/unirteyisbtiidng tscects/gen
+er
+(aiteeam/co C:/burundsimav/UnuittEngi/beDebugBindingts/ggen.cppd commeo 64)
+
+ime/UnityEngineDebugBindings.gen.cpp Line: 64)N
+o
+ skidmarks object foNod.skSkidmars s bwill fnoun be drawn. aDkr ail ''RCt Ski dmrakn.MaDrager''R fCrkimmaPrksfanbsger''lfrerm  anef dbso  folto dour, and tdrg p onne...yo
+ 
+(Fexiesaine: sc:eneil..
+ 
+(Filename: e:/buity/slailed/artifactsdgearerafacts/genoerateti/ce/UnityEnntiime/bugityEdingneDebu.cBip diings: 64)
+
+p Line: 64)
+
+No skidmarks  sbject fosuobjeckt marks will notdbe. Skwidmarags''RilCS not beksMana. er'ag fr'RCCSreidabsrksManrager' d from Prefabsurfoexistingndscdrno...on
+ t
+o ilename: C:/buildsla..e/
+un
+iFy/build/artifauild/genverated/common//aurtime/ctnityenegrated/ucommdinngs.gen.cpp tine: 64)
+
+bugBindiNo skid.cprkLinebj ec)
+
+found. Skidmarks will not be drawn. Drag ''RCCSkidmarksManager'' from Prefabs folder, and drop on to your existing scene...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+No skidmarks object found. Skidmarks will not be drawn. Drag ''RCCSkidmarksManager'' from Prefabs folder, and drop on to your existing scene...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Is Local Player: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Is Local Player: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Is Local Player: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityStandardAssets.Network.LobbyPlayer.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityStandardAssets.Network.LobbyPlayer.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

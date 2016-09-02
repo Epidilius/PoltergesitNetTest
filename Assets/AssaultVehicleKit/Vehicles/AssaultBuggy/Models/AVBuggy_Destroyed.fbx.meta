@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 083a599330484bc4c9bc0b826cb9b1b8
+labels:
+- Vehicle
+- Assault
+- Kit
+- Car
+- Physics
+- AI
+- Projectile
+- Weapon
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bottom
+    100004: DriveCompartment
+    100006: DriverSeat
+    100008: FrontBumper
+    100010: Grill
+    100012: Hood
+    100014: LeftSide
+    100016: PassengerSeat
+    100018: Rear
+    100020: RearBumper
+    100022: RightSide
+    100024: RollBar
+    100026: SteeringWheel
+    100028: Texture Group
+    100030: Top
+    100032: TurretMount
+    100034: WheelFL
+    100036: WheelFR
+    100038: WheelRL
+    100040: WheelRR
+    400000: //RootNode
+    400002: Bottom
+    400004: DriveCompartment
+    400006: DriverSeat
+    400008: FrontBumper
+    400010: Grill
+    400012: Hood
+    400014: LeftSide
+    400016: PassengerSeat
+    400018: Rear
+    400020: RearBumper
+    400022: RightSide
+    400024: RollBar
+    400026: SteeringWheel
+    400028: Texture Group
+    400030: Top
+    400032: TurretMount
+    400034: WheelFL
+    400036: WheelFR
+    400038: WheelRL
+    400040: WheelRR
+    2300000: Bottom
+    2300002: DriveCompartment
+    2300004: DriverSeat
+    2300006: FrontBumper
+    2300008: Grill
+    2300010: Hood
+    2300012: LeftSide
+    2300014: PassengerSeat
+    2300016: Rear
+    2300018: RearBumper
+    2300020: RightSide
+    2300022: RollBar
+    2300024: SteeringWheel
+    2300026: Top
+    2300028: TurretMount
+    2300030: WheelFL
+    2300032: WheelFR
+    2300034: WheelRL
+    2300036: WheelRR
+    3300000: Bottom
+    3300002: DriveCompartment
+    3300004: DriverSeat
+    3300006: FrontBumper
+    3300008: Grill
+    3300010: Hood
+    3300012: LeftSide
+    3300014: PassengerSeat
+    3300016: Rear
+    3300018: RearBumper
+    3300020: RightSide
+    3300022: RollBar
+    3300024: SteeringWheel
+    3300026: Top
+    3300028: TurretMount
+    3300030: WheelFL
+    3300032: WheelFR
+    3300034: WheelRL
+    3300036: WheelRR
+    4300000: SteeringWheel
+    4300002: WheelFL
+    4300004: WheelFR
+    4300006: TurretMount
+    4300008: Hood
+    4300010: Grill
+    4300012: LeftSide
+    4300014: RightSide
+    4300016: Rear
+    4300018: Bottom
+    4300020: FrontBumper
+    4300022: RearBumper
+    4300024: DriveCompartment
+    4300026: RollBar
+    4300028: DriverSeat
+    4300030: PassengerSeat
+    4300032: Top
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

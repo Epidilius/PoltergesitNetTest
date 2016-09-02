@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: fe84427b9786e1047b1fd45a20c0f57f
+labels:
+- Vehicle
+- Assault
+- Kit
+- Car
+- Physics
+- AI
+- Projectile
+- Weapon
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Eyes
+    100002: Hat
+    100004: //RootNode
+    100006: Sphere
+    100008: Roller
+    100010: Texture Group
+    100012: LasaerGun
+    100014: LasaerGun (2)
+    100016: LaserTurretBaseLeft
+    100018: LaserTurretBaseRight
+    100020: LaserTurretPivot
+    100022: LaserTurretPivot (2)
+    100024: Head
+    100026: Top
+    100028: SphereSegment1
+    100030: SphereSegment2
+    100032: SphereSegment3
+    100034: LaserGun
+    100036: LaserGun (2)
+    400000: Eyes
+    400002: Hat
+    400004: //RootNode
+    400006: Sphere
+    400008: Roller
+    400010: Texture Group
+    400012: LasaerGun
+    400014: LasaerGun (2)
+    400016: LaserTurretBaseLeft
+    400018: LaserTurretBaseRight
+    400020: LaserTurretPivot
+    400022: LaserTurretPivot (2)
+    400024: Head
+    400026: Top
+    400028: SphereSegment1
+    400030: SphereSegment2
+    400032: SphereSegment3
+    400034: LaserGun
+    400036: LaserGun (2)
+    2300000: Eyes
+    2300002: Hat
+    2300004: Sphere
+    2300006: Roller
+    2300008: LasaerGun
+    2300010: LasaerGun (2)
+    2300012: LaserTurretBaseLeft
+    2300014: LaserTurretBaseRight
+    2300016: LaserTurretPivot
+    2300018: LaserTurretPivot (2)
+    2300020: Head
+    2300022: Top
+    2300024: SphereSegment1
+    2300026: SphereSegment2
+    2300028: SphereSegment3
+    2300030: LaserGun
+    2300032: LaserGun (2)
+    3300000: Eyes
+    3300002: Hat
+    3300004: Sphere
+    3300006: Roller
+    3300008: LasaerGun
+    3300010: LasaerGun (2)
+    3300012: LaserTurretBaseLeft
+    3300014: LaserTurretBaseRight
+    3300016: LaserTurretPivot
+    3300018: LaserTurretPivot (2)
+    3300020: Head
+    3300022: Top
+    3300024: SphereSegment1
+    3300026: SphereSegment2
+    3300028: SphereSegment3
+    3300030: LaserGun
+    3300032: LaserGun (2)
+    4300000: Sphere
+    4300002: Hat
+    4300004: Eyes
+    4300006: Roller
+    4300008: LaserTurretBaseLeft
+    4300010: LaserTurretPivot
+    4300012: LasaerGun
+    4300014: LaserTurretBaseRight
+    4300016: LaserTurretPivot (2)
+    4300018: LasaerGun (2)
+    4300020: Top
+    4300022: Head
+    4300024: SphereSegment1
+    4300026: SphereSegment2
+    4300028: SphereSegment3
+    4300030: LaserGun
+    4300032: LaserGun (2)
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

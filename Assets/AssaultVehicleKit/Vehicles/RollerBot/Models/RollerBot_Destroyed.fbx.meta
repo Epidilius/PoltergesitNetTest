@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 7b19a45265f4fbd45bea423e77cef779
+labels:
+- Vehicle
+- Assault
+- Kit
+- Car
+- Physics
+- AI
+- Projectile
+- Weapon
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Eyes
+    100002: Head
+    100004: LasaerGun
+    100006: LasaerGun (2)
+    100008: LaserTurretBaseLeft
+    100010: LaserTurretBaseRight
+    100012: LaserTurretPivot
+    100014: LaserTurretPivot (2)
+    100016: //RootNode
+    100018: SphereSegment1
+    100020: SphereSegment2
+    100022: SphereSegment3
+    100024: Texture Group
+    100026: Top
+    100028: LaserGun
+    100030: LaserGun (2)
+    400000: Eyes
+    400002: Head
+    400004: LasaerGun
+    400006: LasaerGun (2)
+    400008: LaserTurretBaseLeft
+    400010: LaserTurretBaseRight
+    400012: LaserTurretPivot
+    400014: LaserTurretPivot (2)
+    400016: //RootNode
+    400018: SphereSegment1
+    400020: SphereSegment2
+    400022: SphereSegment3
+    400024: Texture Group
+    400026: Top
+    400028: LaserGun
+    400030: LaserGun (2)
+    2300000: Eyes
+    2300002: Head
+    2300004: LasaerGun
+    2300006: LasaerGun (2)
+    2300008: LaserTurretBaseLeft
+    2300010: LaserTurretBaseRight
+    2300012: LaserTurretPivot
+    2300014: LaserTurretPivot (2)
+    2300016: SphereSegment1
+    2300018: SphereSegment2
+    2300020: SphereSegment3
+    2300022: Top
+    2300024: LaserGun
+    2300026: LaserGun (2)
+    3300000: Eyes
+    3300002: Head
+    3300004: LasaerGun
+    3300006: LasaerGun (2)
+    3300008: LaserTurretBaseLeft
+    3300010: LaserTurretBaseRight
+    3300012: LaserTurretPivot
+    3300014: LaserTurretPivot (2)
+    3300016: SphereSegment1
+    3300018: SphereSegment2
+    3300020: SphereSegment3
+    3300022: Top
+    3300024: LaserGun
+    3300026: LaserGun (2)
+    4300000: Top
+    4300002: Head
+    4300004: Eyes
+    4300006: LaserTurretBaseLeft
+    4300008: LaserTurretPivot
+    4300010: LasaerGun
+    4300012: LaserTurretBaseRight
+    4300014: LaserTurretPivot (2)
+    4300016: LasaerGun (2)
+    4300018: SphereSegment1
+    4300020: SphereSegment2
+    4300022: SphereSegment3
+    4300024: LaserGun
+    4300026: LaserGun (2)
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
